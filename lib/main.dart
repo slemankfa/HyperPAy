@@ -54,6 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
  
 
 // usfel Link : https://medium.com/simicart-developers/integrating-hyperpay-into-a-react-native-project-72c688bd7161
+// usfel Link : https://stackoverflow.com/questions/34765190/how-to-add-aar-dependency-in-library-module 
 // when add ibjective c header we added it in (Runner-Bridging-Header.h)
   static const platform = const MethodChannel("com.env.pay/payemntMethod");
 
